@@ -1,0 +1,21 @@
+doctor_id,first_name,last_name,specialization,department_id,license_number,phone,email,years_of_experience,consultation_fee
+1,Sarah,Chen,Emergency Medicine,1,MD-MA-45678,617-555-0101,s.chen@bostonhospital.org,15,250.00
+2,Michael,Torres,Cardiologist,2,MD-MA-45679,617-555-0102,m.torres@bostonhospital.org,20,400.00
+3,Emily,Washington,Neurologist,3,MD-MA-45680,617-555-0103,e.washington@bostonhospital.org,12,380.00
+4,James,Miller,Pediatrician,4,MD-MA-45681,617-555-0104,j.miller@bostonhospital.org,18,200.00
+5,Lisa,Anderson,Orthopedic Surgeon,5,MD-MA-45682,617-555-0105,l.anderson@bostonhospital.org,22,450.00
+6,Robert,Kumar,Oncologist,6,MD-MA-45683,617-555-0106,r.kumar@bostonhospital.org,25,500.00
+7,Patricia,Lee,Radiologist,7,MD-MA-45684,617-555-0107,p.lee@bostonhospital.org,10,300.00
+8,David,Brown,Pathologist,8,MD-MA-45685,617-555-0108,d.brown@bostonhospital.org,14,280.00
+9,Jennifer,White,General Surgeon,9,MD-MA-45686,617-555-0109,j.white@bostonhospital.org,16,420.00
+10,William,Johnson,Internist,10,MD-MA-45687,617-555-0110,w.johnson@bostonhospital.org,19,320.00
+11,Maria,Garcia,OB-GYN,11,MD-MA-45688,617-555-0111,m.garcia@bostonhospital.org,13,350.00
+12,Thomas,Anderson,Psychiatrist,12,MD-MA-45689,617-555-0112,t.anderson@bostonhospital.org,11,300.00
+13,Rachel,Martinez,Emergency Medicine,1,MD-MA-45690,617-555-0113,r.martinez@bostonhospital.org,8,250.00
+14,Daniel,Kim,Cardiologist,2,MD-MA-45691,617-555-0114,d.kim@bostonhospital.org,17,400.00
+15,Amanda,Taylor,Pediatrician,4,MD-MA-45692,617-555-0115,a.taylor@bostonhospital.org,9,200.00
+16,Christopher,Davis,Orthopedic Surgeon,5,MD-MA-45693,617-555-0116,c.davis@bostonhospital.org,21,450.00
+17,Jessica,Wilson,Oncologist,6,MD-MA-45694,617-555-0117,j.wilson@bostonhospital.org,15,500.00
+18,Kevin,Moore,Neurologist,3,MD-MA-45695,617-555-0118,k.moore@bostonhospital.org,12,380.00
+19,Michelle,Clark,General Surgeon,9,MD-MA-45696,617-555-0119,m.clark@bostonhospital.org,14,420.00
+20,Steven,Lewis,Internist,10,MD-MA-45697,617-555-0120,s.lewis@bostonhospital.org,16,320.00

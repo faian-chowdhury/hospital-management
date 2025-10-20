@@ -1,0 +1,16 @@
+admission_id,patient_id,admission_date,discharge_date,room_number,bed_number,admission_type,discharge_status,primary_diagnosis,attending_doctor_id
+1,12,2025-10-05,2025-10-07,301,A,Emergency,Discharged,Acute appendicitis,9
+2,6,2025-09-15,2025-09-20,502,B,Planned,Discharged,Chemotherapy treatment,6
+3,5,2025-09-22,2025-09-25,401,A,Emergency,Discharged,Meniscus tear repair,5
+4,16,2025-09-28,2025-10-02,304,C,Planned,Discharged,Normal delivery,11
+5,3,2025-10-01,2025-10-03,201,B,Emergency,Discharged,Acute myocardial infarction,2
+6,9,2025-10-04,NULL,405,A,Emergency,Admitted,Severe migraine investigation,3
+7,7,2025-10-08,NULL,601,B,Planned,Admitted,Appendectomy preparation,9
+8,1,2025-10-05,2025-10-05,101,A,Emergency,Discharged,Panic attack,1
+9,14,2025-09-18,2025-09-22,402,C,Emergency,Discharged,Shoulder dislocation,5
+10,19,2025-09-25,2025-09-28,603,A,Planned,Discharged,Hernia repair,9
+11,8,2025-09-10,2025-09-15,701,B,Planned,Discharged,Psychiatric evaluation,12
+12,13,2025-09-20,2025-09-23,202,A,Emergency,Discharged,Unstable angina,14
+13,4,2025-09-29,2025-10-01,305,B,Emergency,Discharged,Hyperemesis gravidarum,11
+14,17,2025-10-02,2025-10-04,403,C,Emergency,Discharged,Carpal tunnel surgery,5
+15,15,2025-10-06,2025-10-08,501,A,Planned,Discharged,Colonoscopy,6

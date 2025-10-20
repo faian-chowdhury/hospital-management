@@ -1,0 +1,31 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,reason,notes
+1,1,1,2025-10-01,09:00:00,Completed,Chest pain,Patient treated for anxiety-related chest pain
+2,2,4,2025-10-01,10:00:00,Completed,Annual checkup,Routine pediatric examination
+3,3,2,2025-10-01,14:00:00,Completed,Heart palpitations,ECG performed - normal results
+4,4,11,2025-10-02,09:30:00,Completed,Prenatal visit,20-week ultrasound scheduled
+5,5,5,2025-10-02,11:00:00,Completed,Knee pain,Possible meniscus tear - MRI ordered
+6,6,6,2025-10-02,15:00:00,Completed,Follow-up consultation,Chemotherapy cycle 3 completed
+7,7,9,2025-10-03,08:00:00,Completed,Pre-operative consultation,Appendectomy scheduled for next week
+8,8,12,2025-10-03,13:00:00,Completed,Anxiety and depression,Medication adjustment needed
+9,9,3,2025-10-04,10:30:00,Completed,Migraine headaches,MRI scheduled to rule out serious causes
+10,10,4,2025-10-04,14:00:00,Completed,Child vaccination,MMR vaccine administered
+11,11,10,2025-10-05,09:00:00,Completed,Diabetes management,A1C test ordered
+12,12,1,2025-10-05,16:00:00,Completed,Severe abdominal pain,Appendicitis suspected - admitted
+13,13,2,2025-10-06,10:00:00,Completed,Chest pain,Stress test scheduled
+14,14,5,2025-10-06,11:30:00,Completed,Shoulder injury,Rotator cuff strain diagnosed
+15,15,6,2025-10-07,13:00:00,Completed,Cancer screening,Colonoscopy scheduled
+16,16,11,2025-10-07,09:30:00,Completed,Pregnancy confirmation,8 weeks pregnant
+17,17,3,2025-10-08,14:30:00,Completed,Numbness in hands,Carpal tunnel syndrome suspected
+18,18,4,2025-10-08,10:00:00,Completed,Fever and cough,Viral infection - symptomatic treatment
+19,19,9,2025-10-09,08:30:00,Scheduled,Hernia repair consultation,Inguinal hernia evaluation
+20,20,12,2025-10-09,15:00:00,Scheduled,Depression screening,Initial psychiatric evaluation
+21,1,10,2025-10-10,09:00:00,Scheduled,Follow-up,Post-ER follow-up
+22,3,14,2025-10-10,11:00:00,Scheduled,Cardiology follow-up,Review ECG and stress test results
+23,5,16,2025-10-11,10:00:00,Scheduled,Orthopedic follow-up,Review MRI results
+24,9,18,2025-10-11,13:00:00,Scheduled,Neurology follow-up,MRI results discussion
+25,11,20,2025-10-12,09:30:00,Scheduled,Diabetes follow-up,Review A1C results
+26,2,15,2025-10-12,14:00:00,Scheduled,6-month checkup,Routine pediatric examination
+27,6,17,2025-10-13,10:00:00,Scheduled,Oncology follow-up,Chemotherapy cycle 4 planning
+28,7,19,2025-10-13,15:00:00,Scheduled,Post-operative follow-up,Appendectomy recovery check
+29,13,2,2025-10-14,11:00:00,Scheduled,Stress test,Cardiac stress test appointment
+30,15,6,2025-10-14,09:00:00,Scheduled,Colonoscopy,Cancer screening procedure

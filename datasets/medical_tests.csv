@@ -1,0 +1,31 @@
+test_id,patient_id,doctor_id,test_type,test_name,test_date,status,results,notes
+1,3,2,Blood Test,Lipid Panel,2025-10-01,Completed,Total Cholesterol: 240 mg/dL (High),Recommend statin therapy
+2,4,11,Imaging,Ultrasound - Prenatal,2025-10-02,Completed,Normal fetal development at 20 weeks,Next ultrasound at 32 weeks
+3,5,5,Imaging,MRI - Knee,2025-10-03,Completed,Medial meniscus tear confirmed,Surgery recommended
+4,9,3,Imaging,MRI - Brain,2025-10-05,Scheduled,Pending,To rule out structural causes
+5,11,10,Blood Test,HbA1c,2025-10-05,Completed,8.2% (Poor control),Medication adjustment needed
+6,12,9,Blood Test,Complete Blood Count,2025-10-05,Completed,WBC: 15000 (Elevated),Consistent with infection
+7,13,2,Diagnostic,ECG - 12 Lead,2025-10-06,Completed,ST-segment depression,Stress test recommended
+8,13,2,Diagnostic,Cardiac Stress Test,2025-10-14,Scheduled,Pending,Scheduled for next week
+9,15,6,Procedure,Colonoscopy,2025-10-14,Scheduled,Pending,Prep instructions provided
+10,1,1,Blood Test,Complete Blood Count,2025-10-01,Completed,All values normal,No abnormalities detected
+11,2,4,Blood Test,Complete Blood Count,2025-10-01,Completed,All values normal,Routine pediatric screening
+12,6,6,Blood Test,Tumor Markers,2025-10-02,Completed,CEA: Stable,Continue current treatment
+13,7,9,Imaging,CT Scan - Abdomen,2025-10-03,Completed,Inflamed appendix confirmed,Surgery indicated
+14,8,12,Blood Test,Comprehensive Metabolic Panel,2025-10-03,Completed,All values within normal range,Continue current medications
+15,10,4,Immunization,MMR Titer,2025-10-04,Completed,Immunity confirmed,Vaccine effective
+16,14,5,Imaging,X-Ray - Shoulder,2025-10-06,Completed,No fracture detected,Soft tissue injury
+17,16,11,Blood Test,Beta-hCG,2025-10-07,Completed,Pregnancy confirmed,Levels consistent with 8 weeks
+18,17,3,Diagnostic,Nerve Conduction Study,2025-10-09,Scheduled,Pending,To confirm carpal tunnel diagnosis
+19,18,4,Blood Test,Rapid Strep Test,2025-10-08,Completed,Negative,Viral etiology likely
+20,3,2,Imaging,Echocardiogram,2025-10-02,Completed,Mild left ventricular dysfunction,Follow-up in 6 months
+21,5,5,Imaging,X-Ray - Knee,2025-10-02,Completed,No bone abnormalities,MRI needed for soft tissue
+22,11,10,Blood Test,Fasting Glucose,2025-10-05,Completed,165 mg/dL (Elevated),Continue diabetes management
+23,12,9,Imaging,CT Scan - Abdomen,2025-10-05,Completed,Acute appendicitis confirmed,Emergency surgery required
+24,6,6,Imaging,PET Scan,2025-09-20,Completed,Partial response to chemotherapy,Continue current regimen
+25,9,3,Blood Test,Complete Blood Count,2025-10-04,Completed,All values normal,Migraine not related to blood disorder
+26,4,11,Blood Test,Complete Blood Count,2025-10-02,Completed,Mild anemia,Iron supplementation recommended
+27,15,6,Blood Test,Carcinoembryonic Antigen,2025-10-07,Completed,Within normal limits,Screening only
+28,1,1,Diagnostic,ECG - 12 Lead,2025-10-01,Completed,Normal sinus rhythm,Anxiety-related chest pain confirmed
+29,7,9,Blood Test,Complete Blood Count,2025-10-08,Completed,Post-op values normal,Recovery progressing well
+30,13,14,Diagnostic,ECG - 12 Lead,2025-10-06,Completed,Borderline abnormal,Stress test needed

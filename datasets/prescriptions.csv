@@ -1,0 +1,26 @@
+prescription_id,patient_id,doctor_id,medication_name,dosage,frequency,duration_days,start_date,end_date,refills_allowed,instructions
+1,1,1,Alprazolam,0.5mg,Twice daily,30,2025-10-01,2025-10-31,2,Take with food
+2,2,4,Amoxicillin,250mg,Three times daily,10,2025-10-01,2025-10-11,0,Complete full course
+3,3,2,Atorvastatin,20mg,Once daily,90,2025-10-01,2025-12-30,3,Take at bedtime
+4,4,11,Prenatal vitamins,1 tablet,Once daily,90,2025-10-02,2025-12-31,3,Take with food
+5,5,5,Ibuprofen,600mg,As needed,30,2025-10-02,2025-11-01,1,Take with food - max 3 times daily
+6,6,6,Ondansetron,8mg,Three times daily,30,2025-10-02,2025-11-01,2,For nausea during chemotherapy
+7,7,9,Ciprofloxacin,500mg,Twice daily,7,2025-10-03,2025-10-10,0,Take on empty stomach
+8,8,12,Sertraline,50mg,Once daily,90,2025-10-03,2025-12-31,3,Take in the morning
+9,9,3,Sumatriptan,50mg,As needed,30,2025-10-04,2025-11-03,2,Take at onset of migraine
+10,10,4,MMR Vaccine,1 dose,Single dose,0,2025-10-04,2025-10-04,0,Vaccination record
+11,11,10,Metformin,500mg,Twice daily,90,2025-10-05,2025-12-31,3,Take with meals
+12,12,9,Morphine,10mg,Every 4-6 hours,3,2025-10-05,2025-10-08,0,Post-operative pain management
+13,13,2,Nitroglycerin,0.4mg,As needed,30,2025-10-06,2025-11-05,2,Sublingual for chest pain
+14,14,5,Naproxen,500mg,Twice daily,14,2025-10-06,2025-10-20,0,Take with food
+15,15,6,Polyethylene glycol,17g,Per protocol,1,2025-10-07,2025-10-08,0,For colonoscopy prep
+16,16,11,Folic acid,1mg,Once daily,90,2025-10-07,2025-12-31,3,Take in the morning
+17,17,3,Gabapentin,300mg,Three times daily,60,2025-10-08,2025-12-07,2,May cause drowsiness
+18,18,4,Acetaminophen,325mg,Every 6 hours,7,2025-10-08,2025-10-15,0,For fever reduction
+19,3,2,Aspirin,81mg,Once daily,90,2025-10-01,2025-12-30,3,Take with food
+20,11,10,Glipizide,5mg,Once daily,90,2025-10-05,2025-12-31,3,Take before breakfast
+21,6,6,Dexamethasone,4mg,Twice daily,5,2025-10-02,2025-10-07,0,Chemotherapy side effect management
+22,8,12,Buspirone,10mg,Twice daily,90,2025-10-03,2025-12-31,3,For anxiety
+23,5,5,Cyclobenzaprine,10mg,At bedtime,14,2025-10-02,2025-10-16,0,Muscle relaxant
+24,9,3,Propranolol,40mg,Twice daily,90,2025-10-04,2025-12-31,3,Migraine prevention
+25,12,9,Docusate,100mg,Twice daily,7,2025-10-05,2025-10-12,0,Stool softener post-surgery

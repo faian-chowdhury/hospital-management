@@ -1,0 +1,16 @@
+staff_id,first_name,last_name,role,department_id,phone,email,hire_date,salary,shift
+1,Nancy,Williams,Head Nurse,1,617-555-3001,n.williams@bostonhospital.org,2018-03-15,75000.00,Day
+2,Robert,Johnson,Nurse,1,617-555-3002,r.johnson@bostonhospital.org,2019-06-20,65000.00,Night
+3,Linda,Brown,Nurse,2,617-555-3003,l.brown@bostonhospital.org,2017-01-10,68000.00,Day
+4,Patricia,Davis,Nurse,3,617-555-3004,p.davis@bostonhospital.org,2020-02-14,63000.00,Evening
+5,Michael,Miller,Nurse,4,617-555-3005,m.miller@bostonhospital.org,2019-08-22,65000.00,Day
+6,Barbara,Wilson,Radiologic Technologist,7,617-555-3006,b.wilson@bostonhospital.org,2018-11-30,70000.00,Day
+7,Elizabeth,Moore,Lab Technician,8,617-555-3007,e.moore@bostonhospital.org,2017-05-18,68000.00,Day
+8,Susan,Taylor,Medical Records Clerk,10,617-555-3008,s.taylor@bostonhospital.org,2016-09-12,52000.00,Day
+9,Joseph,Anderson,Nurse,9,617-555-3009,j.anderson@bostonhospital.org,2019-04-25,67000.00,Day
+10,Margaret,Thomas,Nurse,5,617-555-3010,m.thomas@bostonhospital.org,2018-07-08,66000.00,Evening
+11,Dorothy,Jackson,Pharmacist,NULL,617-555-3011,d.jackson@bostonhospital.org,2017-03-20,95000.00,Day
+12,Sarah,White,Nurse,6,617-555-3012,s.white@bostonhospital.org,2020-01-15,64000.00,Day
+13,Charles,Harris,Physical Therapist,5,617-555-3013,c.harris@bostonhospital.org,2018-10-10,72000.00,Day
+14,Jessica,Martin,Nurse,11,617-555-3014,j.martin@bostonhospital.org,2019-12-05,65000.00,Day
+15,Kevin,Thompson,Respiratory Therapist,1,617-555-3015,k.thompson@bostonhospital.org,2017-08-28,71000.00,Night

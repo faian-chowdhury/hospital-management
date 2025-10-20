@@ -1,0 +1,13 @@
+department_id,department_name,floor_number,phone_extension,department_head
+1,Emergency Medicine,1,1000,Dr. Sarah Chen
+2,Cardiology,3,3000,Dr. Michael Torres
+3,Neurology,4,4000,Dr. Emily Washington
+4,Pediatrics,2,2000,Dr. James Miller
+5,Orthopedics,5,5000,Dr. Lisa Anderson
+6,Oncology,6,6000,Dr. Robert Kumar
+7,Radiology,B1,7000,Dr. Patricia Lee
+8,Laboratory,B2,8000,Dr. David Brown
+9,Surgery,7,9000,Dr. Jennifer White
+10,Internal Medicine,3,3500,Dr. William Johnson
+11,Obstetrics and Gynecology,4,4500,Dr. Maria Garcia
+12,Psychiatry,8,8500,Dr. Thomas Anderson

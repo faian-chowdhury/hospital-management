@@ -1,0 +1,16 @@
+log_id,table_name,operation,record_id,changed_by,changed_at,old_data,new_data
+1,patients,INSERT,1,system,2025-09-15 10:30:00,NULL,"{""first_name"":""John"",""last_name"":""Smith""}"
+2,appointments,INSERT,1,doctor_1,2025-09-28 14:20:00,NULL,"{""patient_id"":1,""doctor_id"":1,""date"":""2025-10-01""}"
+3,appointments,UPDATE,1,doctor_1,2025-10-01 09:45:00,"{""status"":""Scheduled""}","{""status"":""Completed""}"
+4,prescriptions,INSERT,1,doctor_1,2025-10-01 10:00:00,NULL,"{""patient_id"":1,""medication"":""Alprazolam""}"
+5,admissions,INSERT,1,doctor_9,2025-10-05 18:30:00,NULL,"{""patient_id"":12,""diagnosis"":""Acute appendicitis""}"
+6,billing,INSERT,12,billing_admin,2025-10-07 09:15:00,NULL,"{""patient_id"":12,""amount"":15750.00}"
+7,admissions,UPDATE,1,doctor_9,2025-10-07 11:00:00,"{""discharge_date"":null}","{""discharge_date"":""2025-10-07""}"
+8,patients,UPDATE,6,admin,2025-10-02 13:45:00,"{""phone"":""617-555-2011""}","{""phone"":""617-555-2099""}"
+9,doctors,UPDATE,2,hr_admin,2025-10-01 08:00:00,"{""consultation_fee"":380.00}","{""consultation_fee"":400.00}"
+10,medical_tests,INSERT,1,lab_tech,2025-10-01 16:30:00,NULL,"{""patient_id"":3,""test_type"":""Blood Test""}"
+11,appointments,DELETE,25,admin,2025-10-08 10:15:00,"{""patient_id"":11,""status"":""Cancelled""}",NULL
+12,prescriptions,UPDATE,8,doctor_12,2025-10-03 15:20:00,"{""dosage"":""25mg""}","{""dosage"":""50mg""}"
+13,staff,INSERT,1,hr_admin,2025-09-01 09:00:00,NULL,"{""first_name"":""Nancy"",""role"":""Head Nurse""}"
+14,billing,UPDATE,5,billing_admin,2025-10-09 14:30:00,"{""payment_status"":""Pending""}","{""payment_status"":""Paid""}"
+15,medical_tests,UPDATE,4,doctor_3,2025-10-05 11:00:00,"{""status"":""Pending""}","{""status"":""Scheduled""}"
